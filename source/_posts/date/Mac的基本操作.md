@@ -1,7 +1,8 @@
 ---
 title: Mac的基本操作
+cover: https://nirvana-1304092626.cos.ap-chongqing.myqcloud.com/BgImage/27.png
 categories: 
-- [Mac]
+- [杂记,Mac]
 tags:
 - zsh
 - macos

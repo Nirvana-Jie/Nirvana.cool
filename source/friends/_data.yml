@@ -2,33 +2,41 @@
   owner: Lomirus
   url: https://lomirus.github.io
   desc: We shall meet in the place where there is no darkness.
-  image: https://i.loli.net/2021/12/03/MZbLEIl7srz2jth.jpg
+  image: https://nirvana-1304092626.cos.ap-chongqing.myqcloud.com/friends/%E8%B7%AF%E5%93%A5.jpg
   color: "#e9546b"
 
 - site: 辇道增七的Blog
   owner: 达达子
   url: https://wuhaoda.life
   desc: 不忘初心，方得始终
-  image: https://i.loli.net/2021/12/03/IvzQj8EqbHJfMTA.jpg
+  image: https://nirvana-1304092626.cos.ap-chongqing.myqcloud.com/friends/%E8%BE%BE%E8%BE%BE%E5%AD%90.jpg
   color: "#e9546b"
 
 - site: Victor's Blog
   owner: 凯子哥
   url: https://blog.qwq.ren
   desc: 在想象中复燃 可能更解烦.
-  image: https://i.loli.net/2021/12/03/adJVlMZc9LPxtOU.jpg
+  image: https://nirvana-1304092626.cos.ap-chongqing.myqcloud.com/friends/%E5%87%AF%E5%AD%90%E5%93%A5.jpg
   color: "#e9546b"
 
 - site: Echo's Sharing
   owner: 苟牛马
   url: https://iamazhi.xyz
   desc: 只有所说的话比保持沉默更有价值时，才值得说出来。
-  image: https://i.loli.net/2021/12/03/xICmnzDrUZS3jWl.jpg
+  image: https://nirvana-1304092626.cos.ap-chongqing.myqcloud.com/friends/%E8%8B%9F%E7%89%9B%E9%A9%AC.jpg
   color: "#e9546b"
 
 - site: sunsun
   owner: 旭宝
   url: https://sunsun.work
   desc: 吃饭睡觉
-  image: https://i.loli.net/2021/12/03/SJxg8c6vBjwqWbZ.jpg
+  image: https://nirvana-1304092626.cos.ap-chongqing.myqcloud.com/friends/%E6%97%AD%E5%AE%9D.jpg
   color: "#e9546b"
+
+- site: MYY's Space
+  owner: 马姐
+  url: http://mayingyi.space
+  desc: 立志不做前端的咸鱼！
+  image: https://avatars.githubusercontent.com/u/72426675?s=400&u=0a0c37c3b974f47a46c4acd1ec111dc6dd692d4c&v=4
+  color: "#e9546b"
+

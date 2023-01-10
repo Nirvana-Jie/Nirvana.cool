@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 四方天地
+title: 四方天地（阿砍的前端知识库）
 subtitle: 往事已成定局，但未来由我们书写
 description: 阿砍的前端分享与杂记
 keywords: 摸鱼小能手,前端打工人
@@ -60,10 +60,10 @@ default_category: uncategorized
 category_map:
   前端: front
   杂记: date
-  Mac: Mac
+  Mac: course-2
   通识: course-1
-  React: course-2
-  Vue: course-3
+  React: course-1
+  Vue: course-1
 
 tag_map:
 

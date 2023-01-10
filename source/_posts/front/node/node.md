@@ -1,5 +1,6 @@
 ---
 title: Node
+cover: https://nirvana-1304092626.cos.ap-chongqing.myqcloud.com/BgImage/13.png
 categories: 
 - [前端,通识]
 tags:
