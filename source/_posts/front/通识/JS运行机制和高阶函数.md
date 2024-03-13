@@ -1,6 +1,6 @@
 ---
 title: JS高阶函数和运行机制
-cover: https://nirvana-1304092626.cos.ap-chongqing.myqcloud.com/BgImage/19.png
+cover: https://nirvana-1304092626.cos.ap-chongqing.myqcloud.com/BgImage/12.png
 categories: 
 - [前端,通识]
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Vue中数据监视和数据代理浅识
-cover: https://nirvana-1304092626.cos.ap-chongqing.myqcloud.com/BgImage/14.png
+cover: https://nirvana-1304092626.cos.ap-chongqing.myqcloud.com/BgImage/12.png
 categories: 
 - [前端,vue]
 tags:
